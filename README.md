@@ -3,7 +3,7 @@
 
 ## 封装好了，直接调用即可，可以直接计算最终受益，也可以分别计算出每个月的本金+受益
 <p align = "center"> 
-  <img src = "">
+  <img src = "https://github.com/TheGitHubOfLee/CounterDemo/blob/master/Jietu20180327-201813-HD.gif?raw=true">
 </p>
 <p align = "center"> 
  /**
